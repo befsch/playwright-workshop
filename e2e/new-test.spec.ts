@@ -8,7 +8,6 @@ test('login', async({ page }) => {
     
     await login(page);
 
-
     // Expect a title "to contain" a substring.
     await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html');
   });
