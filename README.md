@@ -1,13 +1,9 @@
-# Installation
-## Mit NPM. Bitte erst damit versuchen 
-`npm init playwright@latest`
+# Voraussetzungen
 
-## Mit yarn
-`yarn create playwright`
-
-## Mit pnpm
-`pnpm create playwright`
-
+- Latest version of Node.js 18, 20 or 22.
+- Windows 10+, Windows Server 2016+ or Windows Subsystem for Linux (WSL).
+- macOS 13 Ventura, or later.
+- Debian 12, Ubuntu 22.04, Ubuntu 24.04, on x86-64 and arm64 architecture.
 
 # Ausführung der Tests 
 `npx playwright test`
