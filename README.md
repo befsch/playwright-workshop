@@ -12,12 +12,20 @@
 # Ausführung der Tests 
 `npx playwright test`
 
+# Ausführung der Tests mit UI
+`npx playwright test --ui`
+
+# Ausführung der Tests mit Debugger im Browser
+`npx playwright test --debug`
+
+
+
+
 # Codegenerator 
 `npx playwright codegen https://www.saucedemo.com/inventory.html`
 
 
-# Debugging im Browser
-`npx playwright test --debug`
+
 
 
 | This   | is    | a       |
