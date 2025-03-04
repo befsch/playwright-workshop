@@ -5,17 +5,6 @@
 - macOS 13 Ventura, or later.
 - Debian 12, Ubuntu 22.04, Ubuntu 24.04, on x86-64 and arm64 architecture.
 
-# Installation
-## Mit NPM. Bitte erst damit versuchen 
-`npm init playwright@latest`
-
-## Mit yarn
-`yarn create playwright`
-
-## Mit pnpm
-`pnpm create playwright`
-
-
 # Ausführung der Tests 
 `npx playwright test`
 
